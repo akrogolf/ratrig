@@ -1,6 +1,6 @@
 # ratrig
 
-roughly 1kg per panel. These are very trick to print, especially without an enclosure.
+roughly 1kg per panel. These are very tricky to print, especially without an enclosure.
 
 I ended up printing them wtiha  0.8 CHT at 0.3 layer ehight. 3 bottom layers, 1 top layer. 15% cubic infill.
 Anymore than 1 top layer, it will quickly warp. and "long line infills will make it warp, need to use hex, 3d hex, or gyroid.
