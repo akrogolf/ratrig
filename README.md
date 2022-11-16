@@ -1,5 +1,14 @@
 # ratrig
 
+F3D VZBOT FOR RATRIG MOUNT
+PROBE MOUNT, MAG+ DUCT & SHROUD, COUPLE OTHER MODS
+
+Fan shrouding works a bit better - its mainly just thinker and more compact than the OG VZ fan shrouds. The probe mount is just a simple peice that will mount both your X probe and your Z probe. Surley you can alter them to fit whatever probe you are using.
+
+IMPORTANT NOTE - THESE ARE DESIGNED FOR ORBITER2 - For LGX lite your will need to modify the top of the probe mount to allow for clearance. shoudlnt be hard.
+
+
+---PANELS---
 roughly 1kg per panel. These are very tricky to print, especially without an enclosure.
 
 I ended up printing them wtiha  0.8 CHT at 0.3 layer ehight. 3 bottom layers, 1 top layer. 15% cubic infill.
